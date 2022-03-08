@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.beef6f8b.css",
+    "main.js": "/shopping-cart/static/js/main.6b970382.js",
+    "static/media/cover.jpg": "/shopping-cart/static/media/cover.0352a415656d479de971.jpg",
+    "static/media/jawbreaker-zone.jpg": "/shopping-cart/static/media/jawbreaker-zone.4b756e5c71fa5f4922b0.jpg",
+    "static/media/bootstrap-icons.woff?": "/shopping-cart/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/shopping-cart/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/dx-aviar.jpg": "/shopping-cart/static/media/dx-aviar.fa1f19bbb0050ddceec7.jpg",
+    "static/media/z-buzzz.jpg": "/shopping-cart/static/media/z-buzzz.f586e4a4e380f478d25c.jpg",
+    "static/media/esp-buzzz.jpg": "/shopping-cart/static/media/esp-buzzz.32d4d912c2e6871347a8.jpg",
+    "static/media/lucid-justice.jpg": "/shopping-cart/static/media/lucid-justice.be709ec69be8446672be.jpg",
+    "static/media/champion-mako3.jpg": "/shopping-cart/static/media/champion-mako3.4a00a8cfe163f46806f1.jpg",
+    "static/media/star-teebird.jpg": "/shopping-cart/static/media/star-teebird.bd03ed7b3ab34f463196.jpg",
+    "static/media/star-destroyer.jpg": "/shopping-cart/static/media/star-destroyer.546b2eab2b4961ce4300.jpg",
+    "static/media/dx-destroyer.jpg": "/shopping-cart/static/media/dx-destroyer.a58f34958845ee1d662c.jpg",
+    "static/media/classic-burst-judge.jpeg": "/shopping-cart/static/media/classic-burst-judge.85edcaaf92e4ae2aac18.jpeg",
+    "static/media/titanium-zone.jpg": "/shopping-cart/static/media/titanium-zone.f4e12ac7008a15fbd22d.jpg",
+    "static/media/ss-wizard.jpg": "/shopping-cart/static/media/ss-wizard.d45a7e0962ee82b387ec.jpg",
+    "static/media/classic-soft-judge.jpeg": "/shopping-cart/static/media/classic-soft-judge.5f125732bce27c196046.jpeg",
+    "static/media/champion-firebird.jpg": "/shopping-cart/static/media/champion-firebird.d695605701506b1d0903.jpg",
+    "static/media/dx-roc.jpg": "/shopping-cart/static/media/dx-roc.8fc502759e61c8809f77.jpg",
+    "static/media/prime-justice.jpg": "/shopping-cart/static/media/prime-justice.1597ec30931f3d4ea79b.jpg",
+    "static/media/pure-white-wizard.jpg": "/shopping-cart/static/media/pure-white-wizard.d732c9ab57ba89f0c2b7.jpg",
+    "static/media/gstar-mako3.jpg": "/shopping-cart/static/media/gstar-mako3.53dda31c6c2dcb9c93f4.jpg",
+    "static/media/xt-aviar.jpg": "/shopping-cart/static/media/xt-aviar.1338c40d59376b44f67b.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "main.beef6f8b.css.map": "/shopping-cart/static/css/main.beef6f8b.css.map",
+    "main.6b970382.js.map": "/shopping-cart/static/js/main.6b970382.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef6f8b.css",
+    "static/js/main.6b970382.js"
+  ]
+}
