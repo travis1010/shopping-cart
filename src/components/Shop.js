@@ -10,7 +10,7 @@ function Shop() {
   const [cart, setCart] = useState([]);
 
   async function getInventory() {
-    const inv = await fetch("./inventory.json")
+    const inv = await fetch("../assets/inventory.json")
     .then(res => res.json());
     setInventory(inv);
     setFilter(inv);
