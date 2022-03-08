@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Innova Champion Firebird",
+    "imgName": "champion-firebird.jpg",
+    "price": 14.99,
+    "id": 1,
+    "type": "driver"
+  }, 
+  {
+    "name": "Innova Champion Mako3",
+    "imgName": "champion-mako3.jpg",
+    "price": 14.99,
+    "id": 2,
+    "type": "midrange"
+  },
+  {
+    "name": "Dynamic Discs Classic Burst Judge",
+    "imgName": "classic-burst-judge.jpeg",
+    "price": 12.99,
+    "id": 3,
+    "type": "putter"
+  },
+  {
+    "name": "Dynamic Discs Classic Soft Judge",
+    "imgName": "classic-soft-judge.jpeg",
+    "price": 11.99,
+    "id": 4,
+    "type": "putter"
+  },
+  {
+    "name": "Innova DX Aviar",
+    "imgName": "dx-aviar.jpg",
+    "price": 8.99,
+    "id": 5,
+    "type": "putter"
+  },
+  {
+    "name": "Innova DX Destroyer",
+    "imgName": "dx-destroyer.jpg",
+    "price": 8.99,
+    "id": 6,
+    "type": "driver"
+  },
+  {
+    "name": "Innova DX Roc",
+    "imgName": "dx-roc.jpg",
+    "price": 8.99,
+    "id": 7,
+    "type": "midrange"
+  },
+  {
+    "name": "Discraft ESP Buzzz",
+    "imgName": "esp-buzzz.jpg",
+    "price": 15.99,
+    "id": 8,
+    "type": "midrange"
+  },
+  {
+    "name": "GStar Mako3",
+    "imgName": "gstar-mako3.jpg",
+    "price": 15.99,
+    "id": 9,
+    "type": "midrange"
+  },
+  {
+    "name": "Discraft Jawbreaker Zone",
+    "imgName": "jawbreaker-zone.jpg",
+    "price": 11.99,
+    "id": 10,
+    "type": "putter"
+  },
+  {
+    "name": "Dynamic Discs Lucid Justice",
+    "imgName": "lucid-justice.jpg",
+    "price": 14.99,
+    "id": 11,
+    "type": "midrange"
+  },
+  {
+    "name": "Dynamic Discs Prime Justice",
+    "imgName": "prime-justice.jpg",
+    "price": 8.99,
+    "id": 12,
+    "type": "midrange"
+  },
+  {
+    "name": "Gateway Pure White Wizard",
+    "imgName": "pure-white-wizard.jpg",
+    "price": 10.99,
+    "id": 13,
+    "type": "putter"
+  },
+  {
+    "name": "Gateway Super Soft Wizard",
+    "imgName": "ss-wizard.jpg",
+    "price": 8.99,
+    "id": 14,
+    "type": "putter"
+  },
+  {
+    "name": "Innova Star Destroyer",
+    "imgName": "star-destroyer.jpg",
+    "price": 15.99,
+    "id": 15,
+    "type": "driver"
+  },
+  {
+    "name": "Innova Star Teebird",
+    "imgName": "star-teebird.jpg",
+    "price": 15.99,
+    "id": 16,
+    "type": "driver"
+  },
+  {
+    "name": "Discraft Titanium Zone",
+    "imgName": "titanium-zone.jpg",
+    "price": 8.99,
+    "id": 17,
+    "type": "putter"
+  },
+  {
+    "name": "Innova XT Aviar",
+    "imgName": "xt-aviar.jpg",
+    "price": 10.99,
+    "id": 18,
+    "type": "putter"
+  },
+  {
+    "name": "Discraft Z Buzzz",
+    "imgName": "z-buzzz.jpg",
+    "price": 14.99,
+    "id": 19,
+    "type": "midrange"
+  }
+]

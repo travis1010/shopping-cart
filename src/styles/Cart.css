@@ -1,0 +1,78 @@
+.Cart {
+  overflow: hidden;
+}
+
+.cart-window {
+  right: 0px;
+  position: fixed;
+  width: 580px;
+  height: 100%;
+  background-color: white;
+  transform: translateX(584px);
+  transition: transform 1s; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: -3px 0px 6px -3px #464646;
+}
+
+
+.cart-items {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.close {
+  margin: 12px 0px 30px 0px;
+}
+
+.Cart h2 {
+  margin-bottom: 30px;
+}
+
+.subtotal {
+  margin: 40px 0px;
+}
+
+.Cart button {
+  margin: 0px 10px;
+  background-color: rgb(58,58,58);
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+}
+
+.quantity-button {
+  margin: 0px;
+  padding: 0px;
+  height: 18px;
+  width: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-name {
+  width: 300px
+}
+
+.Cart a {
+  color: black;
+}
+
+.cart-quantity {
+  display: flex;
+  align-items:center;
+  justify-content: space-evenly;
+  width: 80px;
+}
+
+.cart-price {
+  width: 60px;
+}
+
+.Cart td {
+  height: 36px;
+}
